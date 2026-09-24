@@ -9,7 +9,7 @@
 
 ## Workbook Overview
 
-This lab workbook contains 9 experiments covering the complete Selenium automation curriculum. Each experiment follows a structured format with problem statement, objectives, implementation, and results.
+This lab workbook contains 18 experiments covering the complete Selenium automation curriculum, including Selenium basics, unittest framework, pytest framework, and Page Object Model (POM). Each experiment follows a structured format with problem statement, objectives, implementation, and results.
 
 ---
 
@@ -26,6 +26,15 @@ This lab workbook contains 9 experiments covering the complete Selenium automati
 | 7 | Synchronization | Implicit wait, Explicit wait | ✅ Completed |
 | 8 | Screenshots & Exceptions | Screenshot methods, Try-Catch-Finally | ✅ Completed |
 | 9 | Advance Interactions | Excel/JSON, Mouse Hover, JavaScript execution | ✅ Completed |
+| 10 | Unittest Introduction | unittest framework, First Selenium test case, setUp/tearDown | ✅ Completed |
+| 11 | Unittest SetUp/TearDown & Asserts | Assert methods, Test Suites, setUp/tearDown | ✅ Completed |
+| 12 | Data-Driven Testing with Unittest | DDT with JSON/CSV/Excel, subTest | ✅ Completed |
+| 13 | Pytest Introduction | Pytest install, Naming conventions, Assertions | ✅ Completed |
+| 14 | Pytest Fixtures & conftest.py | Fixtures (function/class/session scopes), Shared conftest | ✅ Completed |
+| 15 | Pytest HTML Reporting | pytest-html reports, Fixtures, Screenshot on failure | ✅ Completed |
+| 16 | POM Introduction | Why framework, BasePage, Login/Dashboard page classes | ✅ Completed |
+| 17 | POM Framework | pages/tests/utils/testdata separation, CSV reader, Config | ✅ Completed |
+| 18 | POM Data-Driven & Screenshots | CSV-driven POM, Screenshot utility, Complete flow | ✅ Completed |
 
 ---
 
@@ -39,6 +48,9 @@ This lab workbook contains 9 experiments covering the complete Selenium automati
 | Assignment 4 | Tier 2 | Exp 5 | JavaScript Alerts and Confirms |
 | Assignment 5 | Tier 2 | Exp 6 | HTML Web Table Extractor |
 | Assignment 6 | Tier 2 | Exp 5 | Windows, Tabs, and Iframes |
+| Assignment 7 | POM | Exp 16 | Page Object Model (POM) Restructure |
+| Assignment 8 | Unittest | Exp 12 | Data-Driven Automation (DDT) with JSON/CSV/Excel |
+| Assignment 9 | PyTest | Exp 15 | PyTest Integration with HTML Reporting |
 
 ---
 
@@ -49,7 +61,7 @@ This lab workbook contains 9 experiments covering the complete Selenium automati
 - **Browsers:** Chrome, Firefox, Edge
 - **IDE:** VS Code / PyCharm
 - **Drivers:** ChromeDriver, GeckoDriver, EdgeDriver
-- **Libraries:** openpyxl, json, csv, time, os
+- **Libraries:** openpyxl, json, csv, time, os, pytest, pytest-html, unittest
 
 ---
 
@@ -67,4 +79,4 @@ This lab workbook contains 9 experiments covering the complete Selenium automati
 
 ---
 
-*Last Updated: September 8, 2026*
+*Last Updated: September 24, 2026*
